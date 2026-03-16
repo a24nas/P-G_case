@@ -1,0 +1,1153 @@
+﻿=== ЗАПРОСЫ ===
+ID,Запрос,Частота,Категория,Область,Топ
+1,"памперс",850000,brand,diapers,true
+2,"pampers",620000,brand,diapers,true
+3,"памперс трусики",320000,brand,diapers,true
+4,"pampers premium care",280000,brand,diapers,true
+5,"памперс active baby",250000,brand,diapers,true
+6,"huggies",430000,brand,diapers,true
+7,"хаггис",210000,brand,diapers,true
+8,"libero подгузники",130000,brand,diapers,true
+9,"памперс для новорожденных",190000,brand,diapers,true
+10,"huggies elite soft",170000,brand,diapers,true
+11,"pampers pants",160000,brand,diapers,true
+12,"moony подгузники",95000,brand,diapers,true
+13,"goon подгузники",87000,brand,diapers,true
+14,"merries подгузники",76000,brand,diapers,true
+15,"памперс 3",210000,brand,diapers,true
+16,"подгузники",1200000,category,diapers,true
+17,"подгузники для новорожденных",480000,category,diapers,true
+18,"подгузники трусики",390000,category,diapers,true
+19,"подгузники 1 размер",280000,category,diapers,true
+20,"подгузники 2 размер",240000,category,diapers,true
+21,"подгузники 3 размер",210000,category,diapers,true
+22,"подгузники ночные",180000,category,diapers,true
+23,"подгузники на липучках",160000,category,diapers,true
+24,"детские подгузники",150000,category,diapers,true
+25,"подгузники трусики для мальчиков",140000,category,diapers,true
+26,"подгузники трусики для девочек",135000,category,diapers,true
+27,"подгузники 4 размер",190000,category,diapers,true
+28,"подгузники 5 размер",170000,category,diapers,true
+29,"подгузники купить",320000,category,diapers,true
+30,"эко подгузники",98000,category,diapers,true
+31,"pampers или huggies что лучше",95000,comparative,diapers,true
+32,"какие подгузники лучше",87000,comparative,diapers,true
+33,"подгузники трусики или липучки",76000,comparative,diapers,true
+34,"huggies или libero сравнение",54000,comparative,diapers,true
+35,"pampers vs libero",43000,comparative,diapers,true
+36,"памперс или хаггис",67000,comparative,diapers,true
+37,"huggies или pampers для новорожденных",58000,comparative,diapers,true
+38,"libero или huggies что лучше",47000,comparative,diapers,true
+39,"подгузники merries или moony",34000,comparative,diapers,true
+40,"pampers active baby или premium care",42000,comparative,diapers,true
+41,"huggies elite soft или pampers premium",38000,comparative,diapers,true
+42,"подгузники goon или merries",29000,comparative,diapers,true
+43,"памперс или либеро",51000,comparative,diapers,true
+44,"эко подгузники или обычные",32000,comparative,diapers,true
+45,"японские подгузники или pampers",27000,comparative,diapers,true
+46,"как выбрать подгузники",120000,advisory,diapers,true
+47,"как подобрать размер подгузников",98000,advisory,diapers,true
+48,"какие подгузники лучше для новорожденных",87000,advisory,diapers,true
+49,"подгузники по весу таблица",76000,advisory,diapers,true
+50,"когда переходить с подгузников на трусики",65000,advisory,diapers,true
+51,"как понять что подгузник мал",43000,advisory,diapers,true
+52,"как правильно надевать подгузник",56000,advisory,diapers,true
+53,"подгузники на ночь какие лучше",48000,advisory,diapers,true
+54,"от каких подгузников нет опрелостей",38000,advisory,diapers,true
+55,"как часто менять подгузник новорожденному",72000,advisory,diapers,true
+56,"подгузники для чувствительной кожи",54000,advisory,diapers,true
+57,"сколько подгузников нужно в день",67000,advisory,diapers,true
+58,"можно ли постоянно носить подгузники",43000,advisory,diapers,true
+59,"подгузники при поносе какие",31000,advisory,diapers,true
+60,"как хранить подгузники",29000,advisory,diapers,true
+61,"head and shoulders",720000,brand,shampoos,true
+62,"хед энд шолдерс",430000,brand,shampoos,true
+63,"пантин шампунь",380000,brand,shampoos,true
+64,"pantene",320000,brand,shampoos,true
+65,"herbal essences",280000,brand,shampoos,true
+66,"гербал эссенс шампунь",210000,brand,shampoos,true
+67,"elseve",350000,brand,shampoos,true
+68,"эльсев шампунь",240000,brand,shampoos,true
+69,"dove шампунь",310000,brand,shampoos,true
+70,"clear шампунь",290000,brand,shampoos,true
+71,"клир шампунь",180000,brand,shampoos,true
+72,"loral шампунь",260000,brand,shampoos,true
+73,"лореаль шампунь",195000,brand,shampoos,true
+74,"syoss шампунь",165000,brand,shampoos,true
+75,"garnier шампунь",175000,brand,shampoos,true
+76,"шампунь",2100000,category,shampoos,true
+77,"шампунь от перхоти",890000,category,shampoos,true
+78,"шампунь для жирных волос",560000,category,shampoos,true
+79,"шампунь для сухих волос",480000,category,shampoos,true
+80,"шампунь без сульфатов",420000,category,shampoos,true
+81,"шампунь для окрашенных волос",380000,category,shampoos,true
+82,"шампунь для объема волос",310000,category,shampoos,true
+83,"шампунь для выпадения волос",290000,category,shampoos,true
+84,"профессиональный шампунь",240000,category,shampoos,true
+85,"натуральный шампунь",210000,category,shampoos,true
+86,"шампунь для мужчин",180000,category,shampoos,true
+87,"шампунь кондиционер",165000,category,shampoos,true
+88,"шампунь для тонких волос",210000,category,shampoos,true
+89,"шампунь против выпадения",195000,category,shampoos,true
+90,"шампунь детский",230000,category,shampoos,true
+91,"head shoulders или clear что лучше",87000,comparative,shampoos,true
+92,"шампунь от перхоти какой лучше",76000,comparative,shampoos,true
+93,"pantene или elseve сравнение",54000,comparative,shampoos,true
+94,"шампунь без сульфатов или обычный",43000,comparative,shampoos,true
+95,"dove или pantene что лучше",38000,comparative,shampoos,true
+96,"head and shoulders или nizoral",67000,comparative,shampoos,true
+97,"herbal essences или pantene",48000,comparative,shampoos,true
+98,"loreal или syoss шампунь",41000,comparative,shampoos,true
+99,"clear или head and shoulders",58000,comparative,shampoos,true
+100,"elseve или garnier шампунь",35000,comparative,shampoos,true
+101,"шампунь с кератином или без",43000,comparative,shampoos,true
+102,"dove или clear шампунь",37000,comparative,shampoos,true
+103,"pantene или dove для сухих волос",32000,comparative,shampoos,true
+104,"loral или pantene шампунь",45000,comparative,shampoos,true
+105,"профессиональный или обычный шампунь",38000,comparative,shampoos,true
+106,"как выбрать шампунь",145000,advisory,shampoos,true
+107,"шампунь для жирной кожи головы какой выбрать",112000,advisory,shampoos,true
+108,"перхоть какой шампунь помогает",98000,advisory,shampoos,true
+109,"шампунь без сульфатов вред или польза",76000,advisory,shampoos,true
+110,"как часто мыть голову",65000,advisory,shampoos,true
+111,"какой шампунь лучше для тонких волос",54000,advisory,shampoos,true
+112,"шампунь для роста волос какой выбрать",87000,advisory,shampoos,true
+113,"как избавиться от перхоти шампунь",76000,advisory,shampoos,true
+114,"шампунь от выпадения волос какой выбрать",65000,advisory,shampoos,true
+115,"как правильно мыть голову шампунем",54000,advisory,shampoos,true
+116,"шампунь для окрашенных волос как выбрать",48000,advisory,shampoos,true
+117,"сухой шампунь как пользоваться",43000,advisory,shampoos,true
+118,"шампунь от перхоти как часто использовать",38000,advisory,shampoos,true
+119,"шампунь для жирных волос как выбрать",67000,advisory,shampoos,true
+120,"как подобрать шампунь по типу волос",72000,advisory,shampoos,true
+
+=== РЕЗУЛЬТАТЫ ЯНДЕКС / АЛИСА ===
+ID,Запрос,Категория,Область,Есть Алиса,Текст Алисы,P&G,Конкуренты,Маркетплейсы
+67,"elseve",brand,shampoos,true,"goldapple.ru
+letu.ru
+market.yandex.ru
+Loreal-Paris.ru
+OZON.ru",false,true,true
+68,"эльсев шампунь",brand,shampoos,true,"
+market.yandex.ru
+goldapple.ru
+rivegauche.ru
+agora-market.ru
+OZON.ru",false,true,true
+1,"памперс",brand,diapers,true,"
+ru.wikipedia.org*
+votonia.ru
+Detmir.ru
+pampers.com
+market.yandex.ru",true,false,true
+8,"libero подгузники",brand,diapers,true,"eapteka.ru
+sigma-med.ru
+market.yandex.ru
+votonia.ru
+irecommend.ru",false,true,true
+2,"pampers",brand,diapers,true,"
+ru.wikipedia.org*
+votonia.ru
+Detmir.ru
+pampers.com
+market.yandex.ru",true,false,true
+4,"pampers premium care",brand,diapers,true,"
+megamarket.ru
+apteka.ru
+gorzdrav.org
+goldapple.ru
+Detmir.ru",true,false,true
+5,"памперс active baby",brand,diapers,true,"
+uteka.ru
+Megapteka.ru
+market.yandex.ru
+cdek.shopping
+Detmir.ru",true,false,true
+6,"huggies",brand,diapers,true,"
+votonia.ru
+Huggies.ru
+market.yandex.ru
+Detmir.ru
+parfum-lider.ru",false,true,true
+48,"какие подгузники лучше для новорожденных",advisory,diapers,true,"deti.mail.ru
+pikabu.ru
+momlovesbest.com
+vc.ru
+t-j.ru",false,true,false
+7,"хаггис",brand,diapers,true,"
+boobl-goom.ru
+Huggies.ru
+market.yandex.ru
+Detmir.ru
+parfum-lider.ru",false,true,true
+51,"как понять что подгузник мал",advisory,diapers,true,"momirussia.ru
+wikihow.com
+dzen.ru
+otvet.mail.ru
+baby.ru
+huggies.kg
+yokosun.ru
+huggies.kg
+mag.103.by",false,true,false
+64,"pantene",brand,shampoos,true,"
+ru.wikipedia.org
+en.wikipedia.org
+goldapple.ru
+market.yandex.ru
+pantene.com",false,true,true
+9,"памперс для новорожденных",brand,diapers,true,"
+deti.mail.ru
+nappyclub.ru
+market.yandex.ru
+OZON.ru
+apteka-april.ru",true,true,true
+53,"подгузники на ночь какие лучше",advisory,diapers,true,"MedAboutMe.ru
+deti.mail.ru
+dtf.ru
+irecommend.ru
+Detmir.ru",true,true,false
+10,"huggies elite soft",brand,diapers,true,"zdravcity.ru
+rigla.ru
+366.ru
+apteka.ru
+Huggies.ru
+market.yandex.ru
+megamarket.ru
+gorzdrav.org
+uteka.ru
+Huggies.ru
+apteka.ru
+zdorov.ru
+pharmeconom.ru",false,true,true
+11,"pampers pants",brand,diapers,true,"apteka.ru
+zdravcity.ru
+votonia.ru
+perekrestok.ru
+OZON.ru",true,false,true
+12,"moony подгузники",brand,diapers,true,"market.yandex.ru
+onlinetrade.ru
+votonia.ru
+coral-yug.ru
+moy-lvenok.ru",false,true,true
+14,"merries подгузники",brand,diapers,true,"uteka.ru
+goldapple.ru
+market.yandex.ru
+votonia.ru
+apteka.ru",false,true,true
+15,"памперс 3",brand,diapers,true,"Detmir.ru
+votonia.ru
+OZON.ru
+cosmetic.magnit.ru
+market.yandex.ru",true,false,true
+18,"подгузники трусики",category,diapers,true,"
+lenta.com
+market.yandex.ru
+OZON.ru
+perekrestok.ru
+online.Globus.ru",false,false,true
+31,"pampers или huggies что лучше",comparative,diapers,true,"OZON.ru
+dzen.ru
+irecommend.ru
+BabyBlog.ru
+kp.ru",true,true,true
+20,"подгузники 2 размер",category,diapers,true,"market.yandex.ru
+Detmir.ru
+WildBerries.ru
+votonia.ru
+apteka.ru",true,true,true
+21,"подгузники 3 размер",category,diapers,true,"
+market.yandex.ru
+OZON.ru
+megamarket.ru
+votonia.ru
+Detmir.ru",false,true,true
+23,"подгузники на липучках",category,diapers,true,"market.yandex.ru
+OZON.ru
+WildBerries.ru
+kidsmax.ru
+apteka.ru",false,true,true
+24,"детские подгузники",category,diapers,true,"market.yandex.ru
+uteka.ru
+gorzdrav.org
+lenta.com
+WildBerries.ru",true,true,true
+25,"подгузники трусики для мальчиков",category,diapers,true,"Detmir.ru
+OZON.ru
+market.yandex.ru
+WildBerries.ru
+lenta.com",true,true,true
+35,"pampers vs libero",comparative,diapers,true,"irecommend.ru
+BabyBlog.ru
+otzovik.com
+bolshoyvopros.ru
+otvet.mail.ru",true,true,false
+56,"подгузники для чувствительной кожи",advisory,diapers,true,"5 источников
+
+    kp.ru
+    OZON.ru
+    market.yandex.ru
+    stolichki.ru
+    apteka.ru",false,true,true
+36,"памперс или хаггис",comparative,diapers,true,"OZON.ru
+dzen.ru
+diffen.com
+gorzdrav.org
+irecommend.ru
+baby.ru
+irecommend.ru
+Detmir.ru
+megamarket.ru
+OZON.ru
+baby.ru
+Detmir.ru
+kp.ru
+OZON.ru
+irecommend.ru",true,true,true
+37,"huggies или pampers для новорожденных",comparative,diapers,true,"dzen.ru
+bolshoyvopros.ru
+SIMA-LAND.ru
+BabyBlog.ru
+irecommend.ru
+megamarket.ru
+onlinetrade.ru
+Detmir.ru
+apteka.ru
+otzovik.com
+market.yandex.ru
+Detmir.ru
+eapteka.ru
+megamarket.ru
+OZON.ru",true,true,true
+39,"подгузники merries или moony",comparative,diapers,true,"irecommend.ru
+baby.ru
+otzovik.com
+BabyBlog.ru
+vk.com
+megamarket.ru
+otzovik.com
+dzen.ru
+Detmir.ru
+reviews.yandex.ru
+Detmir.ru
+megamarket.ru
+otzovik.com",false,true,true
+59,"подгузники при поносе какие",advisory,diapers,true,"    nevozrast.ru
+    market.yandex.ru
+    BabyBlog.ru
+    health.mail.ru
+    OZON.ru",false,true,true
+41,"huggies elite soft или pampers premium",comparative,diapers,true,"irecommend.ru
+SIMA-LAND.ru
+youtube.com*
+yandex.ru
+avshop.ru",true,true,false
+42,"подгузники goon или merries",comparative,diapers,true,"napkin.tkat.ru
+otzovik.com
+dzen.ru
+BabyBlog.ru
+irecommend.ru
+eapteka.ru
+reviews.yandex.ru
+otzovik.com
+megamarket.ru
+OZON.ru
+baby.ru
+megamarket.ru
+onlinetrade.ru
+otzovik.com
+apteka.ru",false,true,true
+16,"подгузники",category,diapers,true,"    lenta.com
+    market.yandex.ru
+    OZON.ru
+    WildBerries.ru
+    auchan.ru",true,true,true
+26,"подгузники трусики для девочек",category,diapers,true,"5 источников
+
+    Detmir.ru
+    WildBerries.ru
+    OZON.ru
+    online.Globus.ru
+    lenta.com",true,true,true
+27,"подгузники 4 размер",category,diapers,true,"5 источников
+
+    market.yandex.ru
+    OZON.ru
+    Avito.ru
+    WildBerries.ru
+    Detmir.ru",true,true,true
+28,"подгузники 5 размер",category,diapers,true,"    OZON.ru
+    market.yandex.ru
+    WildBerries.ru
+    Detmir.ru
+    gorzdrav.org",true,true,true
+29,"подгузники купить",category,diapers,true,"    Detmir.ru
+    WildBerries.ru
+    uteka.ru
+    gorzdrav.org
+    market.yandex.ru",false,true,true
+61,"head and shoulders",brand,shampoos,true,"
+en.wikipedia.org
+headandshoulders.com
+goldapple.ru
+headandshoulders.co.uk
+apteka.ru",true,false,true
+65,"herbal essences",brand,shampoos,true,"
+ru.wikipedia.org
+en.wikipedia.org
+herbalessences.com
+cdek.shopping
+WildBerries.ru",true,false,true
+62,"хед энд шолдерс",brand,shampoos,true,"
+ru.wikipedia.org
+headandshoulders.com
+goldapple.ru
+market.yandex.ru
+apteka.ru",false,false,false
+69,"dove шампунь",brand,shampoos,true,"
+дав.сайт
+market.yandex.ru
+OZON.ru
+dove.com
+cosmetic.magnit.ru",true,true,true
+115,"как правильно мыть голову шампунем",advisory,shampoos,true,"media.halvacard.ru
+VkusVill.ru
+Garnier.ru
+lenta.ru
+lady.mail.ru
+lady.mail.ru
+selencin.ru
+championat.com
+vfokuse.mail.ru
+Style.RBC.ru
+SIMA-LAND.ru
+paradpomad.ru
+foamstore.ru
+stolichki.ru
+parikmag-pm.ru
+burdastyle.ru
+aif.ru
+the-challenger.ru
+lady.mail.ru
+championat.com
+ihc-russia.ru",false,false,true
+70,"clear шампунь",brand,shampoos,true,"
+randewoo.ru
+клиар.рф
+market.yandex.ru
+Avito.ru
+OZON.ru
+
+",false,false,false
+63,"пантин шампунь",brand,shampoos,true,"
+goldapple.ru
+poryadok.ru
+apteka.ru
+OZON.ru
+market.yandex.ru",false,false,false
+73,"лореаль шампунь",brand,shampoos,true,"
+market.yandex.ru
+rivegauche.ru
+PharmaCosmetica.ru
+OZON.ru
+randewoo.ru",false,true,true
+76,"шампунь",category,shampoos,true,"
+ru.wikipedia.org
+lady.mail.ru
+randewoo.ru
+market.yandex.ru
+OZON.ru",false,false,true
+80,"шампунь без сульфатов",category,shampoos,true,"
+aroma-butik.ru
+lady.mail.ru
+randewoo.ru
+goldapple.ru
+WildBerries.ru",false,true,true
+72,"loral шампунь",brand,shampoos,true,"
+OZON.ru
+market.yandex.ru
+shopozz.ru
+usmall.ru
+cosmetic.magnit.ru",false,false,false
+79,"шампунь для сухих волос",category,shampoos,true,"
+lady.mail.ru
+kp.ru
+Podrygka.ru
+WildBerries.ru
+OZON.ru",false,false,false
+81,"шампунь для окрашенных волос",category,shampoos,true,"
+lady.mail.ru
+hair-market.ru
+podrygka.ru
+market.yandex.ru
+WildBerries.ru",false,false,false
+85,"натуральный шампунь",category,shampoos,true,"
+edadeal.ru
+stolichki.ru
+kp.ru
+goldapple.ru
+namaj.ru",false,false,true
+83,"шампунь для выпадения волос",category,shampoos,true,"
+eapteka.ru
+OZON.ru
+market.yandex.ru
+selencin.ru
+biotinal.ru",false,false,false
+86,"шампунь для мужчин",category,shampoos,true,"
+lady.mail.ru
+vc.ru
+OZON.ru
+rivegauche.ru
+kp.ru",false,false,false
+88,"шампунь для тонких волос",category,shampoos,true,"
+MarieClaire.ru
+lady.mail.ru
+dzen.ru
+OZON.ru
+thevoicemag.ru",false,false,false
+89,"шампунь против выпадения",category,shampoos,true,"
+eapteka.ru
+OZON.ru
+market.yandex.ru
+selencin.ru
+goldapple.ru",false,false,false
+91,"head shoulders или clear что лучше",comparative,shampoos,true,"
+style-hair-magazine.com
+ssl-team.com
+kp.ru
+skinsignal.ru
+otvet.mail.ru",true,true,false
+96,"head and shoulders или nizoral",comparative,shampoos,true,"
+id-clinic.ru
+glamourdusk.com
+vk.com
+style-hair-magazine.com
+nizoral.ru
+reviews.yandex.ru
+femmenordic.com
+otvet.mail.ru
+apteka-april.ru
+otzovik.com",true,true,true
+98,"loreal или syoss шампунь",comparative,shampoos,true,"
+megamarket.ru
+boucle-style.com
+otvet.mail.ru
+otzovik.com
+megamarket.ru
+kp.ru
+reviews.yandex.ru
+otzovik.com
+irecommend.ru
+eapteka.ru",false,true,true
+100,"elseve или garnier шампунь",comparative,shampoos,true,"
+irecommend.ru
+irecommend.ru
+rskrf.ru
+otzovik.com
+megamarket.ru
+otvet.mail.ru
+megamarket.ru
+OZON.ru
+irecommend.ru
+OZON.ru",false,true,true
+104,"loral или pantene шампунь",comparative,shampoos,true,"
+megamarket.ru
+market.yandex.ru
+style-hair-magazine.com
+market.yandex.ru
+megamarket.ru
+otvet.mail.ru
+otzovik.com
+otzovik.com
+relationshipblog.co.in
+irecommend.ru",true,true,true
+105,"профессиональный или обычный шампунь",comparative,shampoos,true,"
+cosmall.ru
+dzen.ru
+kz.amway.com
+vk.com
+alerana.ru
+skin.ru
+livemaster.ru
+sunmag.me
+repeat.ru
+ru.wikipedia.org
+iris56.ru
+mayadioro.ru
+kp.ru
+salonclever.ru",false,true,false
+107,"шампунь для жирной кожи головы какой выбрать",advisory,shampoos,true,"
+vc.ru
+lady.mail.ru
+kudri-brovi.ru
+thevoicemag.ru
+vk.com",false,true,false
+108,"перхоть какой шампунь помогает",advisory,shampoos,true,"
+uteka.ru
+rth.ru
+Megapteka.ru
+zdravcity.ru
+ihc-russia.ru",false,true,true
+111,"какой шампунь лучше для тонких волос",advisory,shampoos,true,"
+esteticshop.ru
+k-zd.ru
+kp.ru
+thevoicemag.ru
+lady.mail.ru
+skin.ru
+kudri-brovi.ru
+MarieClaire.ru
+dzen.ru",false,true,false
+113,"как избавиться от перхоти шампунь",advisory,shampoos,true,"hc-russia.ru
+DoktorVolos.ru
+stolichki.ru
+Megapteka.ru
+ProBolezny.ru",false,false,true
+71,"клир шампунь",brand,shampoos,true,"
+randewoo.ru
+клиар.рф
+Avito.ru
+OZON.ru
+goldapple.ru
+
+",false,false,false
+114,"шампунь от выпадения волос какой выбрать",advisory,shampoos,true,"media.halvacard.ru
+vc.ru
+lady.mail.ru
+goldapple.ru
+vc.ru
+yapokupayu.ru
+sprosivracha.com
+dzen.ru
+selencin.ru
+kp.ru",false,false,false
+66,"гербал эссенс шампунь",brand,shampoos,true,"
+OZON.ru
+market.yandex.ru
+WildBerries.ru
+poryadok.ru
+megamarket.ru",false,false,false
+116,"шампунь для окрашенных волос как выбрать",advisory,shampoos,true,"
+lady.mail.ru
+letu.ru
+vc.ru
+esteticshop.ru
+kp.ru
+sovsekretno.ru
+k-zd.ru
+kudri-brovi.ru
+skin.ru
+akrasoty.ru
+dtf.ru
+esteticshop.ru
+irecommend.ru
+beautyinsider.ru",false,true,true
+117,"сухой шампунь как пользоваться",advisory,shampoos,true,"
+media.halvacard.ru
+aromacode.ru
+goldapple.ru
+stolichki.ru
+apteka.ru
+beautery.ru
+letu.ru
+my7days.ru
+pro-cosmetik.ru
+skin.ru
+lady.mail.ru
+rigla.ru
+fue-clinic.ru
+hfe-hfe.ru
+news.rambler.ru
+irecommend.ru
+reviews.yandex.ru
+OZON.ru
+megamarket.ru
+dzen.ru",false,true,true
+120,"как подобрать шампунь по типу волос",advisory,shampoos,true,"esteticshop.ru
+fanebeauty.com
+aroma-butik.ru
+meitanglobal.com
+stolichki.ru
+esteticshop.ru
+parikmag-pm.ru
+hair-boutique.ru
+клиар.рф
+beautyservice.ru
+skin.ru
+aif.ru
+k-zd.ru
+tashe.ru
+blog.stud-country.ru
+edadeal.ru
+bezlekarstv.ru
+vc.ru
+magazin-kosmetiki-kapriz.ru
+MarieClaire.ru
+SIMA-LAND.ru
+skin.ru",false,false,false
+78,"шампунь для жирных волос",category,shampoos,true,"
+vc.ru
+lady.mail.ru
+OZON.ru
+kp.ru
+market.yandex.ru
+
+",false,true,true
+77,"шампунь от перхоти",category,shampoos,true,"
+rth.ru
+Megapteka.ru
+zdravcity.ru
+stolichki.ru
+pulsarbonus.ru",false,true,true
+95,"dove или pantene что лучше",comparative,shampoos,true,"
+style-hair-magazine.com
+hair-everyday.com
+glamourdusk.com
+hairmaniac.ru
+vk.com
+OZON.ru
+irecommend.ru
+otzovik.com
+megamarket.ru
+reviews.yandex.ru
+megamarket.ru
+vk.com
+reviews.yandex.ru
+otzovik.com
+eapteka.ru",false,false,false
+3,"памперс трусики",brand,diapers,true,"
+apteka.ru
+OZON.ru
+market.yandex.ru
+votonia.ru
+Detmir.ru",true,false,true
+46,"как выбрать подгузники",advisory,diapers,true,"nutrilak.com
+stolichki.ru
+apteka.ru
+akusherstvo.ru
+gorzdrav.org
+edadeal.ru
+vk.com
+market.yandex.ru
+zakon.kz
+MedAboutMe.ru
+kp.ru
+Megapteka.ru
+SIMA-LAND.ru
+deti.mail.ru
+OZON.ru
+Detmir.ru
+pikabu.ru
+dzen.ru",true,true,true
+92,"шампунь от перхоти какой лучше",comparative,shampoos,true,"
+vc.ru
+rth.ru
+Megapteka.ru
+nbcnews.com
+apteka74.ru
+health.mail.ru
+stolichki.ru
+dtf.ru
+vc.ru",true,true,true
+93,"pantene или elseve сравнение",comparative,shampoos,true,"
+dzen.ru
+bolshoyvopros.ru
+otvet.mail.ru
+t-j.ru
+TheBlueprint.ru
+market.yandex.ru
+hairmaniac.ru
+irecommend.ru
+eapteka.ru
+scent.ru
+randewoo.ru
+irecommend.ru
+apteka.ru
+eapteka.ru
+scent.ru
+",true,true,true
+47,"как подобрать размер подгузников",advisory,diapers,true,"edadeal.ru
+akusherstvo.ru
+vk.com
+stolichki.ru
+comfer.ru
+market.yandex.ru
+journal.citilink.ru
+edadeal.ru
+Megapteka.ru
+pro-palliativ.ru
+dzen.ru",false,false,true
+99,"clear или head and shoulders",comparative,shampoos,true,"
+kp.ru
+style-hair-magazine.com
+ssl-team.com
+skinsignal.ru
+otvet.mail.ru",true,true,false
+101,"шампунь с кератином или без",comparative,shampoos,true,"
+akrasoty.ru
+profcosm.com
+sergeenko.by
+kosmetika-proff.ru
+Style.RBC.ru
+blog.gkhair.ru
+aroma-butik.ru
+byrdie.com
+GKeratin.ru
+irecommend.ru",false,false,false
+103,"pantene или dove для сухих волос",comparative,shampoos,true,"
+irecommend.ru
+market.yandex.ru
+style-hair-magazine.com
+OZON.ru
+OZON.ru
+hair-everyday.com
+nn.uteka.ru
+goldapple.ru
+dzen.ru
+apteka-april.ru",true,true,true
+106,"как выбрать шампунь",advisory,shampoos,true,"
+esteticshop.ru
+hairfood.ru
+edadeal.ru
+lady.mail.ru
+skin.ru
+dzen.ru
+aroma-butik.ru
+SIMA-LAND.ru
+meitanglobal.com
+skin.ru
+aif.ru
+k-zd.ru
+tashe.ru
+blog.gkhair.ru
+stolichki.ru
+foamstore.ru
+skin.ru
+thevoicemag.ru
+hairmaniac.ru
+dzen.ru
+kp.ru",false,false,false
+49,"подгузники по весу таблица",advisory,diapers,true,"pinkiss.ru
+edadeal.ru
+akusherstvo.ru
+market.yandex.ru
+dzen.ru",false,false,false
+50,"когда переходить с подгузников на трусики",advisory,diapers,true,"MedAboutMe.ru
+Huggies.ru
+NestleBaby.ru
+dzen.ru
+lovular.ru",false,true,false
+52,"как правильно надевать подгузник",advisory,diapers,true,"lisa.ru
+Huggies.ru
+dzhmao.ru
+nutrilak.com
+wikihow.com
+momirussia.ru
+kabrita.ru
+Megapteka.ru
+bgbsmp.by
+audiomed.ru
+wikihow.com
+comfer.ru",false,true,false
+82,"шампунь для объема волос",category,shampoos,true,"lady.mail.ru
+market.yandex.ru
+podrygka.ru
+goldapple.ru
+WildBerries.ru",false,false,false
+74,"syoss шампунь",brand,shampoos,true,"syoss.ru
+OZON.ru
+randewoo.ru
+market.yandex.ru
+goldapple.ru",false,false,false
+75,"garnier шампунь",brand,shampoos,true,"rivegauche.ru
+Garnier.ru
+market.yandex.ru
+irecommend.ru
+megamarket.ru",false,false,false
+110,"как часто мыть голову",advisory,shampoos,true,"hfe-hfe.ru
+lady.mail.ru
+championat.com
+selencin.ru
+dzen.ru
+fue-clinic.ru
+клиар.рф
+clinikadoctordent.com
+ihc-russia.ru
+lenta.ru
+VkusVill.ru
+stolichki.ru
+woman.ru
+Style.RBC.ru
+
+",false,false,true
+84,"профессиональный шампунь",category,shampoos,true,"hair-market.ru
+rivegauche.ru
+market.yandex.ru
+goldapple.ru
+aroma-butik.ru",false,false,false
+87,"шампунь кондиционер",category,shampoos,true,"ru.siberianhealth.com
+letu.ru
+kleona.com
+market.yandex.ru
+apteka.ru",false,false,false
+90,"шампунь детский",category,shampoos,true,"deti.mail.ru
+market.yandex.ru
+OZON.ru
+uteka.ru
+rivegauche.ru",false,false,false
+109,"шампунь без сульфатов вред или польза",advisory,shampoos,true,"sibcirulnik.ru
+repeat.ru
+rivegauche.ru
+Style.RBC.ru
+profcosm.com",false,false,true
+97,"herbal essences или pantene",comparative,shampoos,true,"hair-everyday.com
+style-hair-magazine.com
+otvet.mail.ru
+thevoicemag.ru
+i-gency.ru
+OZON.ru
+dzen.ru
+lofficiel.directory
+irecommend.ru
+otzovik.com
+megamarket.ru
+pokupella.ru
+irecommend.ru
+bytovaya-himiya.ru
+dzen.ru",false,false,false
+13,"goon подгузники",brand,diapers,true,"eapteka.ru
+coral-yug.ru
+goondiaper.com
+market.yandex.ru
+WildBerries.ru",false,true,true
+118,"шампунь от перхоти как часто использовать",advisory,shampoos,true,"5 источников
+otrazhenie-clinic.ru
+ihc-russia.ru
+ProBolezny.ru
+id-clinic.ru
+MedAboutMe.ru",false,false,false
+94,"шампунь без сульфатов или обычный",comparative,shampoos,true,"Style.RBC.ru
+vk.com
+vichy.ru
+profcosm.com
+kosmetika.moscow
+forma.eapteka.ru
+stolichki.ru
+skin.ru
+evitastore.ru
+sibcirulnik.ru
+lianakl.ru
+kosmetika-proff.ru
+hair.ru
+lady.mail.ru
+goldapple.ru
+
+",false,false,false
+102,"dove или clear шампунь",comparative,shampoos,true,"skinsignal.ru
+otvet.mail.ru
+dzen.ru
+megamarket.ru
+irecommend.ru
+hairmaniac.ru
+randewoo.ru
+megamarket.ru
+WildBerries.ru
+letu.ru
+megamarket.ru
+apteka.ru
+randewoo.ru
+WildBerries.ru",false,false,false
+17,"подгузники для новорожденных",category,diapers,true,"deti.mail.ru
+OZON.ru
+WildBerries.ru
+uteka.ru
+Detmir.ru",true,true,true
+54,"от каких подгузников нет опрелостей",advisory,diapers,true,"    gorzdrav.org
+    stolichki.ru
+    aptechestvo.ru
+    panda-babyclub.kz
+    deti.mail.ru
+    yokosun.ru
+    kp.ru
+    zdravcity.ru
+    vc.ru
+    kp.ru
+    OZON.ru
+    vk.com
+    bolshoyvopros.ru",true,true,true
+112,"шампунь для роста волос какой выбрать",advisory,shampoos,true,"    LaRoche-Posay.ru
+    kabrita.ru
+    GlorYes.ru
+    fantasyclinic.ru
+    dino-rhino.ru
+    baby.ru
+    akusherstvo.ru
+    nutriclub.ru
+    nutrilak.com
+    boobl-goom.ru
+    stolichki.ru
+    smdoctor.ru
+    rigla.ru",false,false,false
+119,"шампунь для жирных волос как выбрать",advisory,shampoos,true,"vc.ru
+letu.ru
+vk.com
+thevoicemag.ru
+kp.ru
+kudri-brovi.ru
+MedAboutMe.ru
+lrcgyn.ru
+PharmaCosmetica.ru
+dtf.ru
+lady.mail.ru
+irecommend.ru
+proficosmetics.ru
+Megapteka.ru
+skin.ru
+stolichki.ru
+MarieClaire.ru",false,true,true
+19,"подгузники 1 размер",category,diapers,true,"market.yandex.ru
+OZON.ru
+WildBerries.ru
+goldapple.ru
+apteka.ru",true,true,true
+22,"подгузники ночные",category,diapers,true,"
+market.yandex.ru
+OZON.ru
+Detmir.ru
+WildBerries.ru
+Detmir.ru",true,true,true
+32,"какие подгузники лучше",comparative,diapers,true,"OZON.ru
+nutrilak.com
+market.yandex.ru
+Huggies.ru
+stolichki.ru
+Megapteka.ru
+dtf.ru
+deti.mail.ru
+BabyBlog.ru
+SIMA-LAND.ru
+pikabu.ru
+kp.ru",true,true,true
+33,"подгузники трусики или липучки",comparative,diapers,true,"proaist.ru
+dzen.ru
+bolshoyvopros.ru
+dino-rhino.ru
+yokito.ru",false,false,false
+34,"huggies или libero сравнение",comparative,diapers,true,"irecommend.ru
+BabyBlog.ru
+forum.baby.ru
+otvet.mail.ru
+youtube.com*
+megamarket.ru
+reviews.yandex.ru
+onlinetrade.ru
+otzovik.com
+Detmir.ru
+megamarket.ru
+WildBerries.ru
+catalog.onliner.by
+eapteka.ru
+irecommend.ru",false,true,true
+55,"как часто менять подгузник новорожденному",advisory,diapers,true,"13 источников
+
+    LaRoche-Posay.ru
+    kabrita.ru
+    GlorYes.ru
+    fantasyclinic.ru
+    dino-rhino.ru
+    baby.ru
+    akusherstvo.ru
+    nutriclub.ru
+    nutrilak.com
+    boobl-goom.ru
+    stolichki.ru
+    smdoctor.ru
+    rigla.ru",false,false,false
+57,"сколько подгузников нужно в день",advisory,diapers,true,"    pinkiss.ru
+    mykunder.com
+    artemka37.ru
+    happybaby.ru
+    BabyBlog.ru
+    aptechestvo.ru
+    kabrita.ru
+    GlorYes.ru
+    Huggies.ru
+    apteka.ru
+    diapazon.kz
+    liberica.by
+    vk.com",false,false,true
+38,"libero или huggies что лучше",comparative,diapers,true,"irecommend.ru
+BabyBlog.ru
+forum.baby.ru
+otvet.mail.ru
+MedAboutMe.ru",false,true,false
+58,"можно ли постоянно носить подгузники",advisory,diapers,true,"    c9m.ru
+    cgemo-serpuhov.ru
+    cgemo-istra.ru
+    sprosivracha.com
+    nutrilak.com
+    vitaexpress.ru
+    medlen.by
+    rigla.ru
+    ryazan.kp.ru
+    uteka.ru
+    yokosun.ru
+    mag.103.by
+    cgemo-serpuhov.ru",false,false,false
+40,"pampers active baby или premium care",comparative,diapers,true,"otzovik.com
+irecommend.ru
+forum.baby.ru
+BabyBlog.ru
+market.yandex.ru",true,false,true
+60,"как хранить подгузники",advisory,diapers,true,"    homesklad.ru
+    journal.citilink.ru
+    huggies.kg
+    novochag.ru
+    t.me*
+    lovular.ru
+    kz.huggies.com
+    BabyBlog.ru
+    yarportal.ru
+    dzen.ru
+    lovular.ru",false,true,true
+43,"памперс или либеро",comparative,diapers,true,"tersportspb.ru
+ru.wikipedia.org*
+irecommend.ru
+ru.wikipedia.org*
+votonia.ru
+bolshoyvopros.ru
+ru.ruwiki.ru
+Detmir.ru
+BabyBlog.ru
+Sportmaster.ru",true,false,true
+44,"эко подгузники или обычные",comparative,diapers,true,"ru.besuperhygiene.com
+akusherstvo.ru
+malyish.ru
+q.yandex.ru
+apteka.ru
+momlovesbest.com
+koshmau.livejournal.com
+irecommend.ru
+spb.akusherstvo.ru
+BabyBlog.ru
+Megapteka.ru
+MedAboutMe.ru
+momlovesbest.com
+kp.ru",true,true,true
+45,"японские подгузники или pampers",comparative,diapers,true,"baby.ru
+deti.mail.ru
+irecommend.ru
+OZON.ru
+kp.ru
+promkod.ru
+vc.ru
+irecommend.ru
+mammysun.ru
+otzovik.com
+irecommend.ru
+Detmir.ru
+BabyBlog.ru",true,true,true
+30,"эко подгузники",category,diapers,true,"malyish.ru
+brandformyson.ru
+organicmama.ru
+Detmir.ru
+OZON.ru",false,true,true
